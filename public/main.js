@@ -1,0 +1,1 @@
+console.log('成功加载js文件')
